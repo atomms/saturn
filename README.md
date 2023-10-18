@@ -3,4 +3,5 @@ A continuacion hare un push al repositorio despues de hacer el add y el commit c
 
 Estamos practicando el uso de git.
 
-
+Seguimos practicando git push desde la terminal,
+ahora volveré a hacer un commit.
